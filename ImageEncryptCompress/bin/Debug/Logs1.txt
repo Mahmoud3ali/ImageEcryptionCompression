@@ -1,0 +1,30 @@
+Red Huffman Tree
+
+(Color, Frequency, Huffman Representation, Total Bits)
+
+( 0, 19701, 1, 1 * 19701 )
+( 255, 20299, 0, 1 * 20299 )
+
+With total of 5000 bytes
+
+Green Huffman Tree
+
+(Color, Frequency, Huffman Representation, Total Bits)
+
+( 0, 30199, 0, 1 * 30199 )
+( 255, 9801, 1, 1 * 9801 )
+
+With total of 5000 bytes
+
+Blue Huffman Tree
+
+(Color, Frequency, Huffman Representation, Total Bits)
+
+( 0, 30100, 0, 1 * 30100 )
+( 255, 9900, 1, 1 * 9900 )
+
+With total of 5000 bytes
+
+Total memory after compression is 5000 + 5000 + 5000 = 15000 bytes
+Compression ratio is 12.5%
+------------------------- End of logs ----------------------------
